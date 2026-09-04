@@ -7,7 +7,7 @@ about:
   head: 4a9e0db
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T19:35:08Z
+  collectedAt: 2026-09-04T20:58:46Z
 timeline:
   created: 2025-11-16
   lastCommit: 2026-08-16
@@ -82,5 +82,38 @@ total:
   openIssue: 16
   commit: 140
 ---
+path: /home/runner/.x-repo/github.com/alDuncanson/Handler
+collectedAt: 2026-09-04T20:58:47Z
+loc:
+  Python:
+    code: 18721
+    comments: 104
+    blanks: 3698
+    files: 84
+  Json:
+    code: 90
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 88
+    comments: 6
+    blanks: 10
+    files: 1
+  Nix:
+    code: 50
+    comments: 1
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 101
+    blanks: 48
+    files: 3
+total:
+  code: 18970
+  comments: 212
+  blanks: 3760
+  files: 90
 ---
 
