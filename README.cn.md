@@ -4,7 +4,7 @@
 
 A2A protocol client for your terminal
 
-![Handler](https://repo.x-cmd.io/Handler.svg)
+![Handler](https://repo.x-cmd.io/Handler.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,14 @@ x install Handler
 - **最新版本**: `v0.2.0` (2026-08-15)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-08-15T00:25:24Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [a2a_handler-0.2.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0-py3-none-any.whl) | 113.3 KiB | `other` |
+| [a2a_handler-0.2.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0.tar.gz) | 92.1 KiB | `native/unknown` |
+| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/default.gitignore) | 1 B | `other` |
 
 ## 流行度
 
@@ -62,4 +69,4 @@ Handler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:10:39Z._
