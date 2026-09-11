@@ -12,6 +12,18 @@ A2A protocol client for your terminal
 x install Handler
 ```
 
+## Code insight
+
+Total: **23,101** lines of code across **90** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 22,871 | 181 | 4,345 | 84 |
+| Json | 90 | 0 | 0 | 1 |
+| Toml | 90 | 9 | 11 | 1 |
+| Nix | 50 | 1 | 4 | 1 |
+| Markdown | 0 | 101 | 48 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/alDuncanson/Handler>
@@ -23,14 +35,6 @@ x install Handler
 - **Latest**: `v0.2.0` (2026-08-15)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 3
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [a2a_handler-0.2.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0-py3-none-any.whl) | 113.3 KiB | `other` |
-| [a2a_handler-0.2.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0.tar.gz) | 92.1 KiB | `native/unknown` |
-| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/default.gitignore) | 1 B | `other` |
 
 ## Popularity
 
@@ -44,21 +48,20 @@ x install Handler
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 11 | 1 | 7 | 6 | 13 |
-| 90d | 2026-06-12 | 4 | 22 | 1 | 8 | 8 | 26 |
-| 360d | 2025-09-15 | 27 | 78 | 1 | 15 | 10 | 149 |
+| 30d | 2026-08-12 | 1 | 11 | 1 | 7 | 6 | 13 |
+| last60d | 2026-07-13 | 3 | 18 | 1 | 8 | 6 | 21 |
+| 90d | 2026-06-13 | 4 | 22 | 1 | 8 | 8 | 26 |
+| last180d | 2026-03-15 | 10 | 52 | 1 | 14 | 10 | 70 |
+| 360d | 2025-09-16 | 27 | 78 | 1 | 15 | 10 | 149 |
+| last720d | 2024-09-21 | 27 | 78 | 1 | 15 | 10 | 149 |
 
-## Code size
+## Release assets
 
-Total: **23,101** lines of code across **90** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 22,871 | 181 | 4,345 | 84 |
-| Json | 90 | 0 | 0 | 1 |
-| Toml | 90 | 9 | 11 | 1 |
-| Nix | 50 | 1 | 4 | 1 |
-| Markdown | 0 | 101 | 48 | 3 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [a2a_handler-0.2.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0-py3-none-any.whl) | 113.3 KiB | `other` |
+| [a2a_handler-0.2.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0.tar.gz) | 92.1 KiB | `native/unknown` |
+| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/default.gitignore) | 1 B | `other` |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for Handler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:10:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:44Z._

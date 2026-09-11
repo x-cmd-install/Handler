@@ -12,6 +12,18 @@ A2A protocol client for your terminal
 x install Handler
 ```
 
+## 代码洞察
+
+合计: **23,101** 行代码（覆盖前 5 种语言、共 **90** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 22,871 | 181 | 4,345 | 84 |
+| Json | 90 | 0 | 0 | 1 |
+| Toml | 90 | 9 | 11 | 1 |
+| Nix | 50 | 1 | 4 | 1 |
+| Markdown | 0 | 101 | 48 | 3 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/alDuncanson/Handler>
@@ -23,14 +35,6 @@ x install Handler
 - **最新版本**: `v0.2.0` (2026-08-15)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 3 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [a2a_handler-0.2.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0-py3-none-any.whl) | 113.3 KiB | `other` |
-| [a2a_handler-0.2.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0.tar.gz) | 92.1 KiB | `native/unknown` |
-| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/default.gitignore) | 1 B | `other` |
 
 ## 流行度
 
@@ -44,21 +48,20 @@ x install Handler
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 11 | 1 | 7 | 6 | 13 |
-| 90d | 2026-06-12 | 4 | 22 | 1 | 8 | 8 | 26 |
-| 360d | 2025-09-15 | 27 | 78 | 1 | 15 | 10 | 149 |
+| 30d | 2026-08-12 | 1 | 11 | 1 | 7 | 6 | 13 |
+| last60d | 2026-07-13 | 3 | 18 | 1 | 8 | 6 | 21 |
+| 90d | 2026-06-13 | 4 | 22 | 1 | 8 | 8 | 26 |
+| last180d | 2026-03-15 | 10 | 52 | 1 | 14 | 10 | 70 |
+| 360d | 2025-09-16 | 27 | 78 | 1 | 15 | 10 | 149 |
+| last720d | 2024-09-21 | 27 | 78 | 1 | 15 | 10 | 149 |
 
-## 代码规模
+## Release 资产
 
-合计: **23,101** 行代码（覆盖前 5 种语言、共 **90** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 22,871 | 181 | 4,345 | 84 |
-| Json | 90 | 0 | 0 | 1 |
-| Toml | 90 | 9 | 11 | 1 |
-| Nix | 50 | 1 | 4 | 1 |
-| Markdown | 0 | 101 | 48 | 3 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [a2a_handler-0.2.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0-py3-none-any.whl) | 113.3 KiB | `other` |
+| [a2a_handler-0.2.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0.tar.gz) | 92.1 KiB | `native/unknown` |
+| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/default.gitignore) | 1 B | `other` |
 
 ## 改进这些数据
 
@@ -69,4 +72,4 @@ Handler 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:10:39Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:21:44Z._
