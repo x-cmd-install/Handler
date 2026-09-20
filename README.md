@@ -4,7 +4,7 @@
 
 A2A protocol client for your terminal
 
-![Handler](https://repo.x-cmd.io/Handler.svg)
+[![x-cmd/install — Handler Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Handler.svg)](https://x-cmd.com/install/Handler)
 
 ## Install
 
@@ -42,18 +42,18 @@ Total: **23,101** lines of code across **90** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 78 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 10 · **Commits**: 149
+- **Releases**: 27 · **Merged PRs**: 78 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 10 · **Commits**: 149
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 0 | 1 | 9 |
-| last60d | 2026-07-20 | 3 | 17 | 0 | 8 | 6 | 20 |
-| 90d | 2026-06-20 | 4 | 20 | 0 | 8 | 8 | 24 |
-| last180d | 2026-03-22 | 10 | 49 | 0 | 13 | 10 | 68 |
-| 360d | 2025-09-23 | 27 | 78 | 0 | 15 | 10 | 149 |
-| last720d | 2024-09-28 | 27 | 78 | 0 | 15 | 10 | 149 |
+| 30d | 2026-08-21 | 0 | 1 | 1 | 0 | 1 | 9 |
+| last60d | 2026-07-22 | 3 | 17 | 1 | 8 | 6 | 18 |
+| 90d | 2026-06-22 | 4 | 20 | 1 | 8 | 8 | 21 |
+| last180d | 2026-03-24 | 10 | 49 | 1 | 13 | 10 | 66 |
+| 360d | 2025-09-25 | 27 | 78 | 1 | 15 | 10 | 149 |
+| last720d | 2024-09-30 | 27 | 78 | 1 | 15 | 10 | 149 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for Handler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:33:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:47:20Z._
