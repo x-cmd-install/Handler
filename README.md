@@ -14,15 +14,15 @@ x install Handler
 
 ## Code insight
 
-Total: **23,101** lines of code across **90** files in the top 5 languages.
+Total: **24,042** lines of code across **90** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 22,871 | 181 | 4,345 | 84 |
+| Python | 23,813 | 202 | 4,515 | 84 |
 | Json | 90 | 0 | 0 | 1 |
-| Toml | 90 | 9 | 11 | 1 |
+| Toml | 89 | 9 | 11 | 1 |
 | Nix | 50 | 1 | 4 | 1 |
-| Markdown | 0 | 101 | 48 | 3 |
+| Markdown | 0 | 120 | 54 | 3 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **23,101** lines of code across **90** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.0` (2026-08-15)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-16
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 45 · **Forks**: 7 · **Open issues**: 25 · **Contributors**: 5
+- **Stars**: 46 · **Forks**: 7 · **Open issues**: 25 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 81 · **Open PRs**: 9 · **Closed issues**: 15 · **Open issues**: 10 · **Commits**: 152
+- **Releases**: 27 · **Merged PRs**: 92 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 8 · **Commits**: 163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 3 | 9 | 0 | 0 | 3 |
-| last60d | 2026-08-17 | 0 | 4 | 9 | 0 | 1 | 12 |
-| 90d | 2026-07-18 | 3 | 20 | 9 | 8 | 6 | 23 |
-| last180d | 2026-04-19 | 8 | 42 | 9 | 13 | 10 | 55 |
-| 360d | 2025-10-21 | 27 | 81 | 9 | 15 | 10 | 152 |
-| last720d | 2024-10-26 | 27 | 81 | 9 | 15 | 10 | 152 |
+| 30d | 2026-09-17 | 0 | 14 | 0 | 0 | 0 | 14 |
+| last60d | 2026-08-18 | 0 | 15 | 0 | 1 | 0 | 23 |
+| 90d | 2026-07-19 | 3 | 31 | 0 | 10 | 4 | 34 |
+| last180d | 2026-04-20 | 8 | 53 | 0 | 15 | 8 | 66 |
+| 360d | 2025-10-22 | 27 | 92 | 0 | 17 | 8 | 163 |
+| last720d | 2024-10-27 | 27 | 92 | 0 | 17 | 8 | 163 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for Handler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:25:28Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:13:53Z._
