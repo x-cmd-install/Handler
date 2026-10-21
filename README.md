@@ -14,15 +14,15 @@ x install Handler
 
 ## Code insight
 
-Total: **24,042** lines of code across **90** files in the top 5 languages.
+Total: **25,704** lines of code across **90** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 23,813 | 202 | 4,515 | 84 |
-| Json | 90 | 0 | 0 | 1 |
+| Python | 25,474 | 230 | 4,743 | 84 |
+| Json | 91 | 0 | 0 | 1 |
 | Toml | 89 | 9 | 11 | 1 |
 | Nix | 50 | 1 | 4 | 1 |
-| Markdown | 0 | 120 | 54 | 3 |
+| Markdown | 0 | 130 | 58 | 3 |
 
 ## Source
 
@@ -32,36 +32,36 @@ Total: **24,042** lines of code across **90** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.0` (2026-08-15)
-- **Last commit**: 2026-10-16
+- **Latest**: `v0.3.0` (2026-10-20)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 46 · **Forks**: 7 · **Open issues**: 25 · **Contributors**: 6
+- **Stars**: 46 · **Forks**: 7 · **Open issues**: 27 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 92 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 8 · **Commits**: 163
+- **Releases**: 28 · **Merged PRs**: 103 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 5 · **Commits**: 175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 13 | 0 | 0 | 0 | 13 |
-| last60d | 2026-08-21 | 0 | 15 | 0 | 1 | 0 | 23 |
-| 90d | 2026-07-22 | 3 | 31 | 0 | 10 | 4 | 32 |
-| last180d | 2026-04-23 | 7 | 52 | 0 | 15 | 8 | 61 |
-| 360d | 2025-10-25 | 27 | 92 | 0 | 17 | 8 | 163 |
-| last720d | 2024-10-30 | 27 | 92 | 0 | 17 | 8 | 163 |
+| 30d | 2026-09-21 | 1 | 24 | 0 | 2 | 0 | 25 |
+| last60d | 2026-08-22 | 1 | 26 | 0 | 3 | 0 | 35 |
+| 90d | 2026-07-23 | 4 | 41 | 0 | 14 | 2 | 44 |
+| last180d | 2026-04-24 | 8 | 62 | 0 | 20 | 5 | 73 |
+| 360d | 2025-10-26 | 28 | 103 | 0 | 22 | 5 | 175 |
+| last720d | 2024-10-31 | 28 | 103 | 0 | 22 | 5 | 175 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [a2a_handler-0.2.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0-py3-none-any.whl) | 113.3 KiB | `other` |
-| [a2a_handler-0.2.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/a2a_handler-0.2.0.tar.gz) | 92.1 KiB | `native/unknown` |
-| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.2.0/default.gitignore) | 1 B | `other` |
+| [a2a_handler-0.3.0-py3-none-any.whl](https://github.com/alDuncanson/Handler/releases/download/v0.3.0/a2a_handler-0.3.0-py3-none-any.whl) | 141.7 KiB | `other` |
+| [a2a_handler-0.3.0.tar.gz](https://github.com/alDuncanson/Handler/releases/download/v0.3.0/a2a_handler-0.3.0.tar.gz) | 124.0 KiB | `native/unknown` |
+| [default.gitignore](https://github.com/alDuncanson/Handler/releases/download/v0.3.0/default.gitignore) | 1 B | `other` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for Handler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:39:34Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:33:09Z._
