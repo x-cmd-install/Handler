@@ -33,7 +33,7 @@ Total: **26,175** lines of code across **97** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-11-08)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **26,175** lines of code across **97** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 112 · **Open PRs**: 1 · **Closed issues**: 22 · **Open issues**: 8 · **Commits**: 187
+- **Releases**: 31 · **Merged PRs**: 113 · **Open PRs**: 0 · **Closed issues**: 23 · **Open issues**: 7 · **Commits**: 188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 4 | 23 | 1 | 2 | 3 | 35 |
-| last60d | 2026-09-10 | 4 | 34 | 1 | 2 | 3 | 38 |
-| 90d | 2026-08-11 | 5 | 45 | 1 | 13 | 5 | 47 |
-| last180d | 2026-05-13 | 11 | 65 | 1 | 19 | 8 | 74 |
-| 360d | 2025-11-14 | 31 | 112 | 1 | 22 | 8 | 187 |
-| last720d | 2024-11-19 | 31 | 112 | 1 | 22 | 8 | 187 |
+| 30d | 2026-10-11 | 4 | 24 | 0 | 3 | 2 | 36 |
+| last60d | 2026-09-11 | 4 | 35 | 0 | 3 | 2 | 39 |
+| 90d | 2026-08-12 | 5 | 46 | 0 | 14 | 4 | 48 |
+| last180d | 2026-05-14 | 11 | 66 | 0 | 20 | 7 | 75 |
+| 360d | 2025-11-15 | 31 | 113 | 0 | 23 | 7 | 188 |
+| last720d | 2024-11-20 | 31 | 113 | 0 | 23 | 7 | 188 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Handler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:04:57Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:07:34Z._
