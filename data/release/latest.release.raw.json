@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 121035,
       "digest": "sha256:8ee4b5d47db4839b7340a0bb61ef22dd0832324a118a33c33ea5422d31f2292a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-08T20:18:48Z",
       "updated_at": "2026-11-08T20:18:48Z",
       "browser_download_url": "https://github.com/alDuncanson/Handler/releases/download/v0.5.0/a2a_handler-0.5.0.tar.gz"
