@@ -48,12 +48,12 @@ Total: **26,175** lines of code across **97** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 21 | 1 | 3 | 2 | 13 |
-| last60d | 2026-09-16 | 4 | 35 | 1 | 3 | 2 | 39 |
-| 90d | 2026-08-17 | 4 | 36 | 1 | 4 | 2 | 48 |
-| last180d | 2026-05-19 | 10 | 62 | 1 | 20 | 7 | 73 |
-| 360d | 2025-11-20 | 31 | 113 | 1 | 23 | 7 | 179 |
-| last720d | 2024-11-25 | 31 | 113 | 1 | 23 | 7 | 188 |
+| 30d | 2026-10-17 | 4 | 21 | 1 | 3 | 2 | 13 |
+| last60d | 2026-09-17 | 4 | 35 | 1 | 3 | 2 | 39 |
+| 90d | 2026-08-18 | 4 | 36 | 1 | 4 | 2 | 48 |
+| last180d | 2026-05-20 | 10 | 62 | 1 | 20 | 7 | 73 |
+| 360d | 2025-11-21 | 31 | 113 | 1 | 23 | 7 | 179 |
+| last720d | 2024-11-26 | 31 | 113 | 1 | 23 | 7 | 188 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Handler lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:19:06Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:18:48Z._
